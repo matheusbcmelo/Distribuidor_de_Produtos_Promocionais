@@ -16,7 +16,7 @@ O projeto entrega uma distribuição equilibrada dos produtos em sacolas premiad
 ---
 
 ## 📧 **Contato**
+
 Para mais informações sobre o projeto, entre em contato:
-- [E-mail](mathuscm@hotmail.com)
-- [LinkedIn](https://linkedin.com/in/matheusbcmelo)  
-- [GitHub](https://github.com/matheusbcmelo)
+- **E-mail**: mathuscm@hotmail.com
+- **LinkedIn**: http://linkedin.com/in/matheusbcmelo
