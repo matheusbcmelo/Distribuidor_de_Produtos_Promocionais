@@ -5,7 +5,7 @@ import numpy as np
 
 #%% Carregamento e Reorganização de DFs
 
-media_vendas = pd.read_excel (r"Média Mensal Censurado.xlsx")
+media_vendas = pd.read_excel (r"Média Mensal de Vendas (Censurado).xlsx")
 
 produtos_descontinuados = pd.read_excel (r"Produtos Descontinuados Restantes (Censurado).xlsx")
 produtos_descontinuados = produtos_descontinuados[["Código", "Unidades"]]
